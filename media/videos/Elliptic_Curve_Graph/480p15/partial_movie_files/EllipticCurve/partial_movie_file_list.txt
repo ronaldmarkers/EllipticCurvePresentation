@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/blupo/Downloads/ECP/media/videos/Elliptic_Curve_Graph/480p15/partial_movie_files/EllipticCurve/3163782288_2697788782_2494817372.mp4'
